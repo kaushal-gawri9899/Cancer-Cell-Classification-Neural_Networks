@@ -39,6 +39,4 @@ Datasets for the above project can be found in "Image_classification_data" direc
 
 ## :pencil: CONTRIBUTION
 
-(1) Prabhav Mohit Mehra, s3743761
-
-(2) Kaushal Gawri, s3777121
+Kaushal Gawri
